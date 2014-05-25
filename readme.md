@@ -12,6 +12,10 @@ File System 嵌入式 Linux 常用文件系统的制作方法，以及相关工�
 
 Version Control System 版本控制系统如：svn, git
 
+## shell
+
+Linux shell 使用技巧相关
+
 ## service
 
 Linux networking service例如：NFS, SAMBA等
