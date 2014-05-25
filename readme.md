@@ -4,6 +4,10 @@
 
 ## 目录说明
 
+## fs
+
+File System 嵌入式 Linux 常用文件系统的制作方法，以及相关工具的使用。
+
 ## cvs
 
 Version Control System 版本控制系统如：svn, git
