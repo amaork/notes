@@ -20,6 +20,10 @@ Linux shell 使用技巧相关
 
 Linux kernel 移植相关
 
+## python
+
+Python相关使用技巧，库使用说明，参考例子等
+
 ## service
 
 Linux networking service例如：NFS, SAMBA等
