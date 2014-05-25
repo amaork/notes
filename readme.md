@@ -16,6 +16,10 @@ Version Control System 版本控制系统如：svn, git
 
 Linux shell 使用技巧相关
 
+## kernel
+
+Linux kernel 移植相关
+
 ## service
 
 Linux networking service例如：NFS, SAMBA等
