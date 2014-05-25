@@ -20,4 +20,8 @@ Linux shell 使用技巧相关
 
 Linux networking service例如：NFS, SAMBA等
 
+## bootloader
+ 
+Bootloader 相关，如：u-boot ATMEL bootstrap等
+
 
