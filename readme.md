@@ -28,6 +28,10 @@ Python相关使用技巧，库使用说明，参考例子等
 
 Linux networking service例如：NFS, SAMBA等
 
+## embedded
+
+嵌入式系统设计相关、优化相关
+
 ## bootloader
  
 Bootloader 相关，如：u-boot ATMEL bootstrap等
