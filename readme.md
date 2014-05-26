@@ -25,6 +25,10 @@ Linux下常用的库的使用例子，参考设计等2014/5/26 11:47:39
 
 Linux shell 使用技巧相关
 
+## tools
+
+linux下常用的编程工具使用技巧等
+
 ## kernel
 
 Linux kernel 移植相关
