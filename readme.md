@@ -8,17 +8,13 @@
 
 File System 嵌入式 Linux 常用文件系统的制作方法，以及相关工具的使用。
 
-## cvs
-
-Version Control System 版本控制系统如：svn, git
-
 ## ldd
 
 Linux device drivers相关内容，以及内核编程相关
 
 ## libs
 
-Linux下常用的库的使用例子，参考设计等2014/5/26 11:47:39 
+Linux下常用的库的使用例子，参考设计等 
 
 
 ## shell
@@ -27,7 +23,11 @@ Linux shell 使用技巧相关
 
 ## tools
 
-linux下常用的编程工具使用技巧等
+linux下常用工具使用技巧，问题等
+
+- git
+- svn
+- vim
 
 ## kernel
 

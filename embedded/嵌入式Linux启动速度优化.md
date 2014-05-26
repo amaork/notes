@@ -1,4 +1,4 @@
-# AT91SAM9G20 嵌入式Linux快速启动优化
+# AT91SAM9G20 嵌入式Linux启动速度优化
 
 ## 一、说明
 
