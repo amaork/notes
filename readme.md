@@ -12,9 +12,13 @@ File System 嵌入式 Linux 常用文件系统的制作方法，以及相关工�
 
 Version Control System 版本控制系统如：svn, git
 
+## ldd
+
+Linux device drivers相关内容，以及内核编程相关
+
 ## libs
 
-Linux下常用的库的使用例子，参考设计等
+Linux下常用的库的使用例子，参考设计等2014/5/26 11:47:39 
 
 
 ## shell
