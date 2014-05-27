@@ -121,6 +121,16 @@ machine_name, user_id,command_list 都可以使用别名列出可用的清单
 
 16. cut -cnum1-num2 filename 从文件的每行中取出num1-num2之间的字符
 
+17. 统计当前目录文件中那个行数最多：
+
+		按照递减顺序排列
+
+		find ./ -name "*.md" | xargs wc -l | sort -rn
+
+		按照递增顺序排列
+
+		find ./ -name "*.md" | xargs wc -l | sort -n
+
 
 ## 五、常用技巧
 
