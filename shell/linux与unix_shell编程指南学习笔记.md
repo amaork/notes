@@ -43,7 +43,7 @@
 
 11. 显示文件系统的类型 df -T
 
-12. umount -l 可以卸载当前正在使用的文件系统；
+12. umount -l 可以卸载当前正在使用的文件系统； 
 
 13. 查找指定pid的进行 ps -fp "pid1 pid2 pid3" (p ---pidlist select by pid)；
 
@@ -77,6 +77,12 @@ machine_name, user_id,command_list 都可以使用别名列出可用的清单
 27. watch -n command 指定间隔一定时间(n)执行command
 
 28. linux下模仿 mac的反向使用鼠标滚轮 xmodmap -e "pointer = 1 2 3 5 4"
+
+29. 查看系统挂载的文件系统 mount | column -t 
+
+30. 挂载临时的内存分区 mount -t tmpfs tmpfs /mnt -o size=1024m
+
+31. 以 ssh 方式挂载文件系统： sshfs name@server:/path/to/folder /path/to/mount/point
 
 
 
@@ -209,6 +215,10 @@ machine_name, user_id,command_list 都可以使用别名列出可用的清单
 2. traceroute
 
 3. nmap局域网扫描进行ping扫描，打印出对扫描做出响应的主机：nmap -sP 192.168.1.0/24
+
+4. 获取外部 IP 地址： curl ifconfig.me
+
+ 
 
 
 
